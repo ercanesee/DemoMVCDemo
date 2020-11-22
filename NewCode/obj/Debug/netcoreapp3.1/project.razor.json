@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\DemoMVC.csproj",
+  "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\DemoMVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,38 +14392,43 @@
   "RootNamespace": "DemoMVC",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\Home\\Books.cshtml",
+      "TargetPath": "Views\\Home\\Books.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],

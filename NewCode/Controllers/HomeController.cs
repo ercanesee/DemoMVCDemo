@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using DemoMVC.Models;
+using NewCode.Model;
 
 namespace DemoMVC.Controllers
 {
@@ -28,6 +29,15 @@ namespace DemoMVC.Controllers
             return View();
         }
 
+        public IActionResult Books() 
+        { 
+            var _getBooks = new List<Books>(){
+                new Books(){ID = 1, Name="Gözlerini Sımsıkı Kapat",Author = "Jules Verne",Page = 300},
+                new Books(){ID = 2, Name="Gözlerini Sımsıkı Kapat 1",Author = "Jules Verne",Page = 400},
+                new Books(){ID = 3, Name="Gözlerini Sımsıkı Kapat 2",Author = "Jules Verne",Page = 300}
+            };
+            return View(_getBooks);
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

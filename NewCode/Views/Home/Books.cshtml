@@ -1,0 +1,25 @@
+@model List<NewCode.Model.Books>
+@{
+    ViewData["Title"] = "Books";
+}
+<h1>@ViewData["Title"]</h1>
+
+<table>
+    <thead>
+        <th>
+            BookName
+        </th>
+        <th>
+            Author
+        </th>
+        <th>
+            PAge
+        </th>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr><td>@item.Name</td><td>@item.Author</td><td>@item.Page</td></tr>            
+        }
+    </tbody>
+</table>
