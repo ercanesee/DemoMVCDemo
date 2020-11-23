@@ -14402,6 +14402,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\Home\\CArs.cshtml",
+      "TargetPath": "Views\\Home\\CArs.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\EE\\Desktop\\DemoMVC\\NewCode\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"

@@ -78,3 +78,4 @@ C:\Users\EE\Desktop\DemoMVC\NewCode\obj\Debug\netcoreapp3.1\DemoMVC.dll
 C:\Users\EE\Desktop\DemoMVC\NewCode\obj\Debug\netcoreapp3.1\DemoMVC.pdb
 C:\Users\EE\Desktop\DemoMVC\NewCode\obj\Debug\netcoreapp3.1\DemoMVC.genruntimeconfig.cache
 C:\Users\EE\Desktop\DemoMVC\NewCode\obj\Debug\netcoreapp3.1\DemoMVC.csproj.CopyComplete
+C:\Users\EE\Desktop\DemoMVC\NewCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cars.cshtml.g.cs

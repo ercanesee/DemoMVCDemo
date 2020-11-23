@@ -38,6 +38,14 @@ namespace DemoMVC.Controllers
             };
             return View(_getBooks);
         }
+        public IActionResult Cars(){
+              var _getBooks = new List<Cars>(){
+                new Cars(){ID = 1, Name="Mercedes AMG",Brand = "Mercedes",Color ="Gray"},
+                new Cars(){ID = 1, Name="Mercedes CLS",Brand = "Mercedes",Color ="Red"}
+            };
+            return View(_getBooks);
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
